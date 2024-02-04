@@ -1,0 +1,37 @@
+body
+{
+    background: darkred;
+}
+#back
+{
+    height: 100vh;
+    width: 8.7%;
+    float: right;
+    background-color: darkred;
+    writing-mode: vertical-rl;
+    text-align: center;
+    text-decoration: none;
+    font-size: xx-large;
+    transition: 1s ease-in-out all;
+}
+#back:hover
+{
+    background-color: deepskyblue;
+    font-size: 400%;
+    color: whitesmoke;
+}
+.container {
+    background-image: url("allteamslogo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 0px;
+    height: 100vh;
+    width: 91.3%;
+    border: none;
+    float: left;
+}
+.col-md-8 {
+    width: 20%;
+    height: 50vh;
+}
+

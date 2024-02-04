@@ -1,0 +1,35 @@
+.cardImage:hover
+{
+    scale: 1.05;
+}
+.cardImage
+{
+    transition: ease-in-out 1.5s;
+    border-radius: 1rem;
+    margin-top: 1rem;
+}
+body
+{
+    background-image: linear-gradient(to right, #660000, #234794);
+}
+h2
+{
+    text-align: center;
+    color: whitesmoke;
+}
+.back
+{
+    float: right;
+}
+.cardStyle
+{
+    margin-left: 32rem;
+}
+.card-title
+{
+    color: lightskyblue;
+}
+
+
+
+

@@ -1,0 +1,84 @@
+body
+{
+    height: 99%;
+    width: 99%;
+    margin: 0;
+    padding: 0;
+    background-image: url("f1-rennen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#menu
+{
+    float: left;
+    margin-right: 3%;
+    width: 15%;
+    height: 100vh;
+    background-image: url("wp8757580-formula-1-logo-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#menu > p > a
+{
+    color: whitesmoke;
+    margin: 3rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+#menu > p
+{
+    line-height: 200%;
+}
+
+
+#menu{
+    transition: all 1.5s ease-in-out;
+    position: fixed;
+}
+
+#menu:hover
+{
+
+    width: 20%;
+
+}
+#f1
+{
+    color: whitesmoke;
+    font-size: 1.5rem;
+    padding-left: 15rem;
+}
+#ablauf
+{
+    color: lightgray;
+    font-size: 1.5rem;
+    padding-left: 15rem;
+}
+.link
+{
+    text-decoration: none;
+    transition: 1.5s ease-in-out all;
+}
+@keyframes linkWidth
+{
+    from {width: 25%}
+    75% {width: 80%}
+    to {width: 70%}
+}
+
+.link:hover
+{
+    background-color: lightskyblue;
+    animation-name: linkWidth;
+    animation-duration: 1.5s;
+    width: 70%;
+}
+
+
+
+
+
+
+
+
