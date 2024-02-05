@@ -29,13 +29,46 @@ body
     color: whitesmoke;
     text-decoration: none;
 }
-#panelsStayOpen-collapseOne
+#panelsStayOpen-collapseOne, #panelsStayOpen-collapseTwo
 {
-    background-image: url("");
+    background: #000044;
 }
-
-
-
+#panelsStayOpen-collapseThree, #panelsStayOpen-collapseFour
+{
+    background: turquoise;
+}
+#panelsStayOpen-collapseFive, #panelsStayOpen-collapseSix
+{
+    background: red;
+}
+#panelsStayOpen-collapseSeven, #panelsStayOpen-collapseEight
+{
+    background: orange;
+}
+#panelsStayOpen-collapseNine, #panelsStayOpen-collapseTen
+{
+    background: darkslategray;
+}
+#panelsStayOpen-collapseEleven, #panelsStayOpen-collapseTwelve
+{
+    background: dodgerblue;
+}
+#panelsStayOpen-collapseThirteen, #panelsStayOpen-collapseFourteen
+{
+    background: deepskyblue;
+}
+#panelsStayOpen-collapseFifteen, #panelsStayOpen-collapseSixteen
+{
+    background: slategray;
+}
+#panelsStayOpen-collapseSeventeen, #panelsStayOpen-collapseEighteen
+{
+    background: greenyellow;
+}
+#panelsStayOpen-collapseNineteen, #panelsStayOpen-collapseTwenty
+{
+    background: grey;
+}
 
 
 

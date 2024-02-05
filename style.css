@@ -62,7 +62,7 @@ body
 }
 @keyframes linkWidth
 {
-    from {width: 25%}
+    from {width: 45%}
     75% {width: 80%}
     to {width: 70%}
 }
