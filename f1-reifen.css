@@ -1,0 +1,69 @@
+#pirelli
+{
+    background: orange;
+}
+#englebert
+{
+    background: blue;
+}
+#firestone
+{
+    background: red;
+}
+#dunlop
+{
+    background: yellow;
+}
+#continental
+{
+    background: black;
+}
+#avon
+{
+    background: purple;
+}
+#goodyear
+{
+    background: green;
+}
+#bridgestone
+{
+    background: turquoise;
+}
+#michelin
+{
+    background: brown;
+}
+#pirelli-englebert-firestone
+{
+    background-image: linear-gradient(to right, orange, blue, red);
+}
+#pirelli-continental
+{
+    background-image: linear-gradient(to right, orange, black);
+}
+#goodyear-michelin
+{
+    background-image: linear-gradient(to right, green, brown);
+}
+.legend
+{
+    width: 20%;
+}
+.data
+{
+    width: 80%;
+    float: right;
+}
+h1
+{
+    text-align: center;
+}
+p, table
+{
+    margin-left: 1rem;
+}
+body
+{
+    background-image: linear-gradient(to right, whitesmoke, grey);
+}
