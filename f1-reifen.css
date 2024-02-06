@@ -72,12 +72,14 @@ body
     font-size: xx-large;
     color: whitesmoke;
     text-decoration: none;
+    margin-top: 1rem;
+    width: 100%;
     transition: 0.5s ease-in-out all;
     text-align: center;
 }
 .link:hover .link2
 {
-    background-color: red;
+    background-color: deepskyblue;
     color: whitesmoke;
 }
 .white

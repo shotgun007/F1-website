@@ -13,11 +13,12 @@ body
     height: 10rem;
     font-size: xx-large;
     text-align: center;
-    transition: 1s ease-in-out all;
+    transition: 0.7s ease-in-out all;
 }
 #back:hover
 {
     font-size: 300%;
+    background-color: deepskyblue;
 }
 .content
 {
