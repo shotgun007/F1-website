@@ -65,22 +65,22 @@ p, table
 }
 body
 {
-    background-image: linear-gradient(to right, whitesmoke, grey);
-}
-.link
-{
-
+    background-image: linear-gradient(to right, #660000, #234794);
 }
 .link2
 {
     font-size: xx-large;
     color: whitesmoke;
     text-decoration: none;
-    transition: 2s ease-in-out all;
+    transition: 0.5s ease-in-out all;
     text-align: center;
 }
 .link:hover .link2
 {
     background-color: red;
+    color: whitesmoke;
+}
+.white
+{
     color: whitesmoke;
 }
